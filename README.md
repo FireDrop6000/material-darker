@@ -1,6 +1,6 @@
 ![top_banner](assets/banner.png)
 <div align=center>
-    <h2>A fast access repo for Material Darker color scheme (probably the first on the internet)</h2>
+    <h2>A fast access repo for Material Darker color scheme<br>(probably the first on the internet)</h2>
 <table>
 <tr>
 <th> Sample </th>
