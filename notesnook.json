@@ -1,0 +1,115 @@
+{
+  "$schema": "https://raw.githubusercontent.com/streetwriters/notesnook-themes/main/schemas/v1.schema.json",
+  "name": "Material Darker",
+  "id": "material",
+  "version": 2,
+  "license": "GPL-3.0-or-later",
+  "homepage": "https://notesnook.com",
+  "description": "Notesnook in an underrated Material Darker colorscheme",
+  "colorScheme": "dark",
+  "compatibilityVersion": 1,
+  "authors": [
+    {
+      "name": "PratikG",
+      "email": "pratik.neel02@gmail.com",
+      "url": "https://github.com/FireDrop6000/material-darker"
+    }
+  ],
+  "scopes": {
+    "base": {
+      "primary": {
+        "accent": "#82aaff",
+        "paragraph": "#fafafa",
+        "background": "#1c1c1c",
+        "border": "#4a4a4a",
+        "heading": "#fafafa",
+        "icon": "#4a4a4a",
+        "separator": "#4a4a4a",
+        "placeholder": "#4a4a4a",
+        "hover": "#4a4a4a",
+        "accentForeground": "#fafafa",
+        "backdrop": "#1c1c1c"
+      },
+      "secondary": {
+        "accent": "#c792ea",
+        "paragraph": "#4a4a4a",
+        "background": "#1c1c1c",
+        "border": "#4a4a4a",
+        "heading": "#4a4a4a",
+        "icon": "#4a4a4a",
+        "separator": "#4a4a4a",
+        "placeholder": "#4a4a4a",
+        "hover": "#1c1c1c",
+        "accentForeground": "#4a4a4a",
+        "backdrop": "#1c1c1c"
+      },
+      "disabled": {
+        "accent": "#ffcb6b",
+        "paragraph": "#4a4a4a",
+        "background": "#fafafa",
+        "border": "#4a4a4a",
+        "heading": "#1c1c1c",
+        "icon": "#4a4a4a",
+        "separator": "#4a4a4a",
+        "placeholder": "#4a4a4a",
+        "hover": "#1c1c1c",
+        "accentForeground": "#fafafa",
+        "backdrop": "#1c1c1c"
+      },
+      "selected": {
+        "accent": "#c792ea",
+        "paragraph": "#4a4a4a",
+        "background": "#1c1c1c",
+        "border": "#c792ea",
+        "heading": "#fafafa",
+        "icon": "#c792ea",
+        "separator": "#4a4a4a",
+        "placeholder": "#4a4a4a",
+        "hover": "#1c1c1c",
+        "accentForeground": "#fafafa",
+        "backdrop": "#1c1c1c"
+      },
+      "error": {
+        "accent": "#f07178",
+        "paragraph": "#f07178",
+        "background": "#1c1c1c",
+        "border": "#4a4a4a",
+        "heading": "#1c1c1c",
+        "icon": "#f07178",
+        "separator": "#4a4a4a",
+        "placeholder": "#4a4a4a",
+        "hover": "#1c1c1c",
+        "accentForeground": "#fafafa",
+        "backdrop": "#1c1c1c"
+      },
+      "success": {
+        "accent": "#c3e88d",
+        "paragraph": "#c3e88d",
+        "background": "#1c1c1c",
+        "border": "#4a4a4a",
+        "heading": "#c3e88d",
+        "icon": "#c3e88d",
+        "separator": "#4a4a4a",
+        "placeholder": "#4a4a4a",
+        "hover": "#1c1c1c",
+        "accentForeground": "#fafafa",
+        "backdrop": "#1c1c1c"
+      }
+    },
+    "list": {
+      "selected": {
+        "background": "#1c1c1c"
+      }
+    },
+    "contextMenu": {
+      "primary": {
+        "background": "#1c1c1c"
+      }
+    },
+    "sheet": {
+      "selected": {
+        "paragraph": "#c3e88d"
+      }
+    }
+  }
+}
